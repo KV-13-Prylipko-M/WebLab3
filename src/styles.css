@@ -1,0 +1,12 @@
+/* src/styles.css */
+body {
+    background-color: black;
+    color: white;
+}
+.container {
+    margin-top: 20px;
+}
+.calculator {
+    max-width: 300px;
+    margin: 0 auto;
+}
